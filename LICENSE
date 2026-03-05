@@ -1,6 +1,25 @@
+# Лицензия DuoNet / DuoNet License
+
+**Версия 1.0 | Март 2026**
+**Автор:** Алексей Николаев
+
+---
+
+## Двойное лицензирование / Dual Licensing
+
+Проект DuoNet использует две разные лицензии для разных типов контента:
+The DuoNet project uses two different licenses for different types of content:
+
+---
+
+### 1. Исходный код / Source Code (MIT License)
+
+Весь исходный код (файлы .py, .go, .rs, .js, .cpp, .h и т.д.) распространяется под лицензией MIT:
+All source code files (.py, .go, .rs, .js, .cpp, .h, etc.) are distributed under the MIT License:
+
 MIT License
 
-Copyright (c) 2026 Alexei Nikolaev
+Copyright (c) 2026 Алексей Николаев and DuoNet Contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +38,52 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+---
+
+### 2. Документация / Documentation (CC BY-NC 4.0)
+
+Вся документация (файлы .md, .txt, .pdf, изображения, диаграммы, whitepapers, спецификации) распространяется под лицензией Creative Commons Attribution-NonCommercial 4.0 International:
+All documentation files (.md, .txt, .pdf, images, diagrams, whitepapers, specifications) are distributed under the Creative Commons Attribution-NonCommercial 4.0 International License:
+
+Creative Commons Attribution-NonCommercial 4.0 International License
+
+Copyright (c) 2026 Алексей Николаев
+
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/
+or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+You are free to:
+
+Share — copy and redistribute the material in any medium or format
+
+Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+
+Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+
+NonCommercial — You may not use the material for commercial purposes.
+
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+
+---
+
+## Важно / Important
+
+- **Коммерческое использование кода** разрешено (MIT)
+- **Commercial use of code** is permitted (MIT)
+- **Коммерческое использование документации** запрещено без явного разрешения автора
+- **Commercial use of documentation** is prohibited without explicit permission from the author
+- Концепция монеты DNET и экономическая модель являются частью документации и защищены CC BY-NC 4.0
+- The DNET coin concept and economic model are part of the documentation and protected by CC BY-NC 4.0
+
+По вопросам коммерческого использования документации: leha.nikolaev@gmail.com
+For commercial use of documentation: leha.nikolaev@gmail.com
+
+---
+
+SPDX-License-Identifier: MIT AND CC-BY-NC-4.0
